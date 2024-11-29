@@ -1,0 +1,45 @@
+aiohttp
+#azure_storage==0.37.0
+channels
+chromadb==0.5.17
+# Django==4.1.5
+# docx==0.2.4
+#faiss==1.5.3
+faiss_cpu
+fire
+# godot==0.1.1
+# google_api_python_client==2.93.0
+lancedb
+langchain==0.0.231
+loguru
+meilisearch
+numpy==1.24.3
+semantic-kernel==0.3.10.dev0
+openai
+openpyxl
+beautifulsoup4
+pandas
+pydantic==1.10.8
+#pygame==2.1.3
+#pymilvus==2.2.8
+pytest
+python_docx
+PyYAML
+# sentence_transformers==2.2.2
+setuptools
+tenacity
+tiktoken
+tqdm
+#unstructured[local-inference]
+# playwright
+# selenium>4
+# webdriver_manager<3.9
+anthropic
+typing-inspect
+typing_extensions
+libcst
+qdrant-client
+pytest-mock
+open-interpreter; python_version>"3.9"
+ta
+
